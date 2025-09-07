@@ -3,21 +3,17 @@
 </div>
 
 <h1 align="center">Hello World, I'm Shubhadeep Biswas 👋</h1>
-<h3 align="center">A passionate student developer exploring the tech universe 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sbr69&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
----
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing BTech (2nd Year)
-- 💡 Intermediate Python Developer
-- 🌱 Learning Web Development and Database Management
-- 🔭 Always excited to collaborate on innovative projects
-- ⚡ Fun fact: I turn coffee into code! ☕
+```yaml
+Name: Shubhadeep Biswas
+Age: 18
+Gender: Male
+Pronouns: He/Him
+Education: Btech CSE 2nd year
+Languages: English, Hindi, Bengali
+```
 
 ### 🛠️ Tech Stack
 
@@ -54,17 +50,6 @@
   </details>
 </p>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbr69&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbr69&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ### 🎯 Current Focus
 
