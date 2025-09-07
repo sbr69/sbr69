@@ -54,6 +54,7 @@ Languages: English, Hindi, Bengali
     </td>
   </tr>
 </table>
+</div>
 
 
 ### 🎯 Current Focus
