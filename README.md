@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi there, I'm Shubhadeep Biswas 👋</h1>
+<h1 align="center">Hello World, I'm Shubhadeep Biswas 👋</h1>
 <h3 align="center">A passionate student developer exploring the tech universe 🚀</h3>
 
 <p align="center">
