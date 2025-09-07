@@ -15,40 +15,45 @@ Education: Btech CSE 2nd year
 Languages: English, Hindi, Bengali
 ```
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 
-<p align="center">
-  <details open>
-    <summary><b>Programming Languages</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </details>
+<div align="center">
 
-  <details open>
-    <summary><b>Frontend Development</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </details>
-
-  <details open>
-    <summary><b>Database</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  </details>
-
-  <details open>
-    <summary><b>Tools & Platforms</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </details>
-</p>
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <th>Frontend</th>
+    <th>Databases</th>
+    <th>Others</th>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org"><img src="assets/python.svg" alt="Python" height="30"/></a>
+      <a href="https://www.cprogramming.com"><img src="assets/c.svg" alt="C" height="30"/></a>
+      <a href="https://isocpp.org/"><img src="assets/cpp.svg" alt="C++" height="30"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/js.svg" alt="JavaScript" height="30"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3.org/html"><img src="assets/html.svg" alt="HTML5" height="30"/></a>
+      <a href="https://www.w3schools.com/css"><img src="assets/css.svg" alt="CSS3" height="30"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com"><img src="assets/sql.svg" alt="MySQL" height="30"/></a>
+      <a href="https://www.mongodb.com"><img src="assets/mongodb.svg" alt="MongoDB" height="30"/></a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com"><img src="assets/git.svg" alt="Git" height="30"/></a>
+      <a href="https://github.com">
+        <picture>
+          <source srcset="assets/github-dark.svg" media="(prefers-color-scheme: dark)">
+          <source srcset="assets/github-light.svg" media="(prefers-color-scheme: light)">
+          <img src="assets/skills/github-light.svg" alt="GitHub" height="30"/>
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ### 🎯 Current Focus
