@@ -36,9 +36,9 @@ class Developer:
 | **Frontend** | <img src="assets/HTML5.svg" alt="HTML5" height="20"/> <img src="assets/CSS3.svg" alt="CSS3" height="20"/> |
 | **Backend** | <img src="assets/Node.svg" alt="Node.js" height="20"/> <img src="assets/Firebase.svg" alt="Firebase" height="20"/> |
 | **Databases** | <img src="assets/Firestore.svg" alt="Firestore" height="20"/> <img src="assets/PostgreSQL.svg" alt="PostgreSQL" height="20"/> <img src="assets/MySQL.svg" alt="MySQL" height="20"/> <img src="assets/MongoDB.svg" alt="MongoDB" height="20"/> |
-| **Web3** | <img src="assets/SmartContracts.svg" alt="Smart Contracts" height="20"/> <img src="assets/Web3.svg" alt="Web3.js" height="20"/> |
+| **Web3** | <img src="assets/SmartContracts.svg" alt="Smart Contracts" height="20"/> <img src="assets/Web3.svg" alt="Web3.js" height="20"/> <img src="assets/Foundry.svg" alt="Foundry" height="20"/> <img src="assets/Remix.svg" alt="Remix" height="20"/> |
 | **Deployment** | <img src="assets/Vercel.svg" alt="Vercel" height="20"/> |
-| **Tools & VCS** | <img src="assets/Git.svg" alt="Git" height="20"/> <img src="assets/GitHub.svg" alt="GitHub" height="20"/> |
+| **Tools & VCS** | <img src="assets/Git.svg" alt="Git" height="20"/> <img src="assets/GitHub.svg" alt="GitHub" height="20"/> <img src="assets/VSCode.svg" alt="VSCode" height="20"/> |
 
 </div>
 
@@ -50,6 +50,15 @@ class Developer:
   - Contributing to open source
   - Discussing tech, ideas, and solutions
   - Learning from experienced developers
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
   
-  <a href="https://linkedin.com/in/sbr69">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbr69)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SBR___69)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sbr69)
+
+</div>
