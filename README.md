@@ -51,4 +51,4 @@ class Developer:
   - Discussing tech, ideas, and solutions
   - Learning from experienced developers
 
-> ### Connect ➙ [<img src="assets/LinkedIn.svg" alt="LinkedIn" height="16" style="vertical-align: middle;"/>](https://linkedin.com/in/sbr69) [<img src="assets/X.svg" alt="X" height="20" style="vertical-align: middle;"/>](https://x.com/SBR___69)
+> ### Connect ➙ [<img src="assets/LinkedIn.svg" alt="LinkedIn" height="16" align="absmiddle"/>](https://linkedin.com/in/sbr69) [<img src="assets/X.svg" alt="X" height="18" align="absmiddle"/>](https://x.com/SBR___69)
