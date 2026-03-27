@@ -52,3 +52,10 @@ class Developer:
   - Learning from experienced developers
 
 > ### Connect ➙ [<img src="assets/LinkedIn.svg" alt="LinkedIn" height="16" align="absmiddle"/>](https://linkedin.com/in/sbr69) [<img src="assets/X.svg" alt="X" height="18" align="absmiddle"/>](https://x.com/SBR___69)
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
