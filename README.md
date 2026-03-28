@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="assets/code.gif" width="100"/>
 </div>
 
 <h1 align="center">Hello World, I'm Shubhadeep Biswas 👋</h1>
@@ -54,9 +54,16 @@ class Developer:
 > ### Connect ➙ [<img src="assets/LinkedIn.svg" alt="LinkedIn" height="16" align="absmiddle"/>](https://linkedin.com/in/sbr69) [<img src="assets/X.svg" alt="X" height="18" align="absmiddle"/>](https://x.com/SBR___69)
 
 ---
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbr69/sbr69/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbr69/sbr69/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/sbr69/sbr69/output/pacman-contribution-graph.svg">
 </picture>
+<br>
+
+---
+<br>
+<div align="center">
+  <img src="assets/working.gif" width="500"/>
+</div>
