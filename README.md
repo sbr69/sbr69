@@ -12,7 +12,7 @@ class Developer:
         self.name = "Shubhadeep Biswas"
         self.age = 19
         self.role = "CSE Student & Developer"
-        self.education = "BTech Computer Science (2nd Year)"
+        self.education = "BTech Computer Science (3rd Year)"
         self.location = "India"
         self.languages = ["English", "Hindi", "Bengali"]
         self.learning_mode = True
